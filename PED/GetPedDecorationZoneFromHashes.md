@@ -28,4 +28,4 @@ enum ePedDecorationZone
 * **overlay**: 
 
 ## Return value
-Returns the doeciration zone for the specific collection and overlay combination, refer to `ePedDecorationZone`
+Returns the decoration zone for the specific collection and overlay combination, refer to `ePedDecorationZone`
